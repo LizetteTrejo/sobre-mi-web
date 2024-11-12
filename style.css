@@ -1,0 +1,96 @@
+main{
+    background: radial-gradient(circle, rgb(221, 51, 124) 0%, rgb(250, 157, 173) 100%);
+}
+
+h2{
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    font-size: 28px;
+}
+
+.navbar{
+    background-color: rgb(250, 157, 173);
+}
+
+
+h1, img{
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+}
+
+.imgcnm {
+    height: 400px;
+    width: 400px;
+}
+
+img{
+    height: 600px;
+    width: 420px;
+}
+
+#valo, #mine, #bf, #ktl, #c1, #c2, #amiru1, #amiru2, #v1, #w1{
+    height: 300px;
+    width: 400px;
+    border-radius: 40px;
+}
+
+.card{
+    margin: 30px;
+}
+
+.col, .card-title{
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.list-group{
+    margin-left: 280px;
+    font-family: "Quicksand", sans-serif;
+}
+
+.card-text{
+    font-family: "Quicksand", sans-serif;
+}
+
+.texto-bio{
+    color: black;
+}
+
+#clasemedia{
+    margin: 40px 0px 0px 280px;
+}
+#clasederecha{
+    margin: 40px 0px 0px 500px;
+}
+
+div {
+    text-align: center;
+    font-family: Arial;
+}
+
+ul, ol {
+    font-family: Arial;
+}
+
+p{
+    font-size: 20px;
+}
+
+.carousel-caption{
+    background-color: #c5057538;
+}
+
+.title{
+    color: #ffffff;
+}
+
+.wide-image {
+    width: 50%; /* Puedes ajustar este valor según necesites */
+    height: auto; /* Mantener las proporciones */
+}
+
+.card-body{
+    background-color: rgb(252, 216, 222);
+}
+
